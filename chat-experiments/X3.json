@@ -1,0 +1,85 @@
+{
+ "name": "ella 🤍",
+ "history": [],
+ "sections": [
+  {
+   "type": "dm",
+   "duration": 7.06,
+   "captions": [
+    {
+     "from": 0,
+     "to": 99,
+     "text": "'we need to talk' at 11pm",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "me",
+     "we need to talk",
+     1.19
+    ],
+    [
+     "them",
+     "omg ok what is it",
+     2.37
+    ],
+    [
+     "me",
+     "not over text",
+     4.34
+    ],
+    [
+     "them",
+     "you can't say that and not tell me. are you leaving me",
+     5.46
+    ]
+   ]
+  },
+  {
+   "type": "dm",
+   "duration": 19.6,
+   "continue": true,
+   "captions": [
+    {
+     "from": 0,
+     "to": 2.4,
+     "text": "then she sent this…",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "me",
+     "no 😭 it's the arguing thing",
+     2.85
+    ],
+    [
+     "me",
+     "I downloaded CoupleIn. you have to repeat back what I said before you reply",
+     9.5
+    ],
+    [
+     "them",
+     "fine. you said 'you never take the bins out'",
+     12.18
+    ],
+    [
+     "me",
+     "I said 'I TOOK the bins out'",
+     15.9
+    ],
+    [
+     "them",
+     "this app is going to ruin my whole personality",
+     17.4
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "duration": 2.6,
+   "line": "Fight fair. Fix it faster."
+  }
+ ]
+}

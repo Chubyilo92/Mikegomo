@@ -1,0 +1,85 @@
+{
+ "name": "jay 🤍",
+ "history": [],
+ "sections": [
+  {
+   "type": "dm",
+   "duration": 13.01,
+   "captions": [
+    {
+     "from": 0,
+     "to": 99,
+     "text": "who is Priya and why did you say gym",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "me",
+     "who is Priya",
+     0.98
+    ],
+    [
+     "them",
+     "who?",
+     2.08
+    ],
+    [
+     "me",
+     "'Dinner with Priya 7pm' in our CoupleIn calendar. you told me you were at the gym",
+     8.58
+    ],
+    [
+     "them",
+     "delete it. delete it right now",
+     11.41
+    ]
+   ]
+  },
+  {
+   "type": "dm",
+   "duration": 13.96,
+   "continue": true,
+   "captions": [
+    {
+     "from": 0,
+     "to": 2.4,
+     "text": "then he sent this…",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "them",
+     "PRIYA IS THE CAKE LADY 😭",
+     1.3
+    ],
+    [
+     "them",
+     "she's making your 30th. I said gym so you wouldn't ask",
+     2.7
+    ],
+    [
+     "me",
+     "you came home with icing on your hoodie",
+     7.46
+    ],
+    [
+     "them",
+     "it's called a protein bar",
+     9.23
+    ],
+    [
+     "me",
+     "a PINK protein bar",
+     11.76
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "duration": 2.6,
+   "line": "Never forget. Ever."
+  }
+ ]
+}

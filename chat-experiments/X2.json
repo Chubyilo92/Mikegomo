@@ -1,0 +1,85 @@
+{
+ "name": "ella 🤍",
+ "history": [],
+ "sections": [
+  {
+   "type": "dm",
+   "duration": 15.15,
+   "captions": [
+    {
+     "from": 0,
+     "to": 99,
+     "text": "why is 'divorce' on her wishlist for 500 points",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "me",
+     "why is 'divorce' on your wishlist in CoupleIn",
+     3.33
+    ],
+    [
+     "them",
+     "what?",
+     5.26
+    ],
+    [
+     "me",
+     "it says divorce. +500 points. that's the most points on the whole list",
+     11.0
+    ],
+    [
+     "them",
+     "babe no",
+     13.55
+    ]
+   ]
+  },
+  {
+   "type": "dm",
+   "duration": 11.18,
+   "continue": true,
+   "captions": [
+    {
+     "from": 0,
+     "to": 2.4,
+     "text": "then she sent this…",
+     "y": 290
+    }
+   ],
+   "messages": [
+    [
+     "them",
+     "DIVE",
+     1.3
+    ],
+    [
+     "them",
+     "it says DIVE. scuba course. autocorrect 😭",
+     2.2
+    ],
+    [
+     "them",
+     "I put 500 points because I know you hate fish",
+     4.03
+    ],
+    [
+     "me",
+     "I'd rather do the divorce",
+     7.56
+    ],
+    [
+     "them",
+     "that's 1000 points then",
+     8.98
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "duration": 2.6,
+   "line": "Stop guessing. It's on her list."
+  }
+ ]
+}

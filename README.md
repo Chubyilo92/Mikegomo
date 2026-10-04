@@ -9,3 +9,6 @@ Metricool brand id 7128269 (Europe/London).
 
 ## chat-experiments/ (1 Oct 2026)
 Three app-mention chat videos (X1 calendar/Priya, X2 wishlist/divorce-dive, X3 Resolve/"we need to talk"), no app footage, built with the Viral-Chat-Video renderer (scripts are the .json files). Experiment to compare against the normal chat videos; not scheduled until Chuby approves. End card uses the text wordmark; swap in the real logo PNG when supplied.
+
+## batch3/ (4 Oct 2026)
+The 14 batch2 chat videos re-cut: new real-phone transition (close chat, swipe app drawer, open CoupleIn; recording trimmed from 5s, 1.5x speed, icon and splash holds trimmed), still app shots capped at 2.5s, Free Trial card painted out of V03. These are the files the 5-11 Oct posts use.
